@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Brian 👋
 
-<!--
-**briansigei/briansigei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Development | Cybersecurity | Python**
 
-Here are some ideas to get you started:
+Software developer focused on building reliable, efficient, and secure applications. Interested in software engineering, security-focused development, and network and web application security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Languages:** Python, Java, C#
+- **Software Development:** OOP, Data Structures & Algorithms, REST APIs, Backend Development
+- **Cybersecurity:** Network Reconnaissance, TCP/IP, Web Security, Secure Authentication, Vulnerability Assessment, Security Log Analysis
+- **Tools:** Git, GitHub, Linux, Windows, VS Code
+- **Databases:** SQLite
+- **Frameworks:** Flask, FastAPI
+
+## 🎯 Current Focus
+
+- Building secure and maintainable software
+- Developing Python security tools
+- Practising ethical hacking in authorized labs
+- Improving software testing and code quality
+
+## 🤝 Collaboration
+
+Interested in software engineering, cybersecurity tools, and open-source projects.
+
+*Building software. Learning security. Improving through practice.*
